@@ -1,38 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@atoz110 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-nagenn
-/
-simple-java-maven-app
-forked from jenkins-docs/simple-java-maven-app
-0
-014k
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-simple-java-maven-app/pom.xml
-@nagenn
-nagenn Clover
-Latest commit b2c9ed0 yesterday
- History
- 2 contributors
-@nagenn@gilesgas
-55 lines (55 sloc)  1.73 KB
- 
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
